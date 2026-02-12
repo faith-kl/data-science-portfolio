@@ -9,4 +9,11 @@ This repository contains selected data science and machine learning projects dem
 
 - **Istanbul Stock Exchange Forecasting**  
   Time series modeling and 10-day forecast using R.  
-  [View Project](./time-series-forecasting)
+  [View Project](./Instanbul-stock-exchange)
+
+
+## How to Run
+
+1. Clone the repository
+2. Open the notebook
+3. Run all cells in order
