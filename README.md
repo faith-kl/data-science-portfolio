@@ -1,6 +1,6 @@
 ## Data Science Portfolio: Faith Lucy Kirabo
 
-This repository contains selected data science and machine learning projects demonstrating classical machine learning, natural language processing, and deep learning using skills like:
+This repository contains selected data science and machine learning projects demonstrating classical machine learning, natural language processing, and deep learning using tools like:
 
 - Python (numpy, pandas, scikit-learn, matplotlib, seaborn)
 - R (ggplot22, dplyr, tidyverse)
