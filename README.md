@@ -12,6 +12,7 @@ This repository contains selected data science and machine learning projects dem
 
 - **Wine Quality Prediction**
   Logistic regression classification model to predict wine quality based on physiochemical factors.
+
   [View Project](./wine-quality-prediction)
   
 - **Istanbul Stock Exchange Forecasting**  
