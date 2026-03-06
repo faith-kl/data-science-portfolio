@@ -23,6 +23,7 @@ This repository contains selected data science and machine learning projects dem
 
 #### Collaborations
 - **ERCOT(Texas) Weather Load Prediction**
+
   Collaborated with teammates to design and implement a two-stage forecasting pipeline , utilizing **STL + ARIMA** for weather prediction with a **SARIMAX, XGBoost and MSTL + LightGBM** parallel modeling approach for load forecasting.
 
   [View Project](https://github.com/BesteKarnibat/ercot-electricity-demand-forecasting)
