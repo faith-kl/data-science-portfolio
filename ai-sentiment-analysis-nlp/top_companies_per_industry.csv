@@ -1,0 +1,47 @@
+industry,org,article_count,rank
+Agriculture,Farmerwiregrass,145,1.0
+Agriculture,Agri-Directory Mkulima,26,2.0
+Agriculture,Montana Ag,26,3.0
+Education,Nasdaq Ipo Academy,957,1.0
+Education,Mit,678,2.0
+Education,Learn,515,3.0
+Energy,Chevron,1389,1.0
+Energy,Crudeoil,395,2.0
+Energy,Goldpetal Natural Gas Copper Zinc,395,3.0
+Entertainment,Poker,19,1.0
+Entertainment,Kings,17,2.0
+Finance,Esg,4360,1.0
+Finance,Takeovers Banking & Financial Services,3338,2.0
+Finance,Ipo Process,2510,3.0
+Government,State,4435,1.0
+Government,El Salvador Equatorial,3841,2.0
+Government,Country Afghanistan Alabama,3830,3.0
+Healthcare,Healthcare,1281,1.0
+Healthcare,Covid-19,682,2.0
+Healthcare,Wellness,465,3.0
+Legal,Llc,950,1.0
+Legal,Mediation & Arbitration Media,544,2.0
+Legal,Attorneyask,365,3.0
+Manufacturing,Tesla,906,1.0
+Manufacturing,Fiat,598,2.0
+Manufacturing,Tsmc,301,3.0
+Media,Reuters,2580,1.0
+Media,Photo Illustration - Rawpixelrawpixelelementsdesignsdesign,1930,2.0
+Media,Npr,1742,3.0
+Professional Services,Hire,16,1.0
+Professional Services,Professional Services Build,16,2.0
+Real Estate,Estatetravel,429,1.0
+Real Estate,Camsclosings,247,2.0
+Real Estate,Mls,239,3.0
+Retail,Amazon,3386,1.0
+Retail,Retailpro,389,2.0
+Retail,Best Quality,388,3.0
+Technology,Openai,13150,1.0
+Technology,Google,13062,2.0
+Technology,Microsoft,11416,3.0
+Telecommunications,Telecomtransport,808,1.0
+Telecommunications,Telecoms,552,2.0
+Telecommunications,Sms,173,3.0
+Transportation,Automotive & Transportation Aerospace,3032,1.0
+Transportation,Logisticstravel,808,2.0
+Transportation,Utc,208,3.0
