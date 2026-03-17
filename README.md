@@ -9,7 +9,7 @@ This repository contains selected data science and machine learning projects dem
 ### Projects
 
 - **AI Sentiment Analysis**  
-  Use Natural lnaguage Processing to analyze ~200K AI and machine learning news articles to understand the sentiment around AI impact across industries.  
+  Use Natural Language Processing to analyze ~200K AI and machine learning news articles to understand the sentiment around AI impact across industries.  
   [View Project](./ai-sentiment-analysis-nlp)
   
 - **House Price Prediction (OLS, Ridge, Lasso)**  
