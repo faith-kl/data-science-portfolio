@@ -4,7 +4,7 @@ This repository contains selected data science and machine learning projects dem
 
 - Python (numpy, pandas, scikit-learn, matplotlib, seaborn, REGEX)
 - R (ggplot22, dplyr, tidyverse)
-- API Integration, Foundation Model Fine-tunng, NER
+- API Integration, Foundation Model Fine-tuning, Named Entity Recognition
   
 ### Projects
 
